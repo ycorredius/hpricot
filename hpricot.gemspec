@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{hpricot}
-  s.version = "0.8.6"
+  s.version = "0.8.7"
 
   s.authors = ["why the lucky stiff"]
   s.date = %q{2012-01-17}
